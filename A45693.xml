@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of passive obedience and jure divino disproved and obedience to the present government, proved from Scripture, law, and reason. Written for the satisfaction of all of those who are dissatisfied at the present government: by a lay-man of the Church of England.</title>
+            <author>Harrison, T. (Thomas), fl. 1683-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45693</idno>
+            <idno type="STC">Wing H917B</idno>
+            <idno type="STC">ESTC R223747</idno>
+            <idno type="EEBO-CITATION">99834032</idno>
+            <idno type="PROQUEST">99834032</idno>
+            <idno type="VID">38511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1833:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of passive obedience and jure divino disproved and obedience to the present government, proved from Scripture, law, and reason. Written for the satisfaction of all of those who are dissatisfied at the present government: by a lay-man of the Church of England.</title>
+                  <author>Harrison, T. (Thomas), fl. 1683-1711.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>London, printed by Randal Taylor, near Stationers-Hall and reprinted at Edinburgh,</publisher>
+                  <pubPlace>[[Edinburgh] :</pubPlace>
+                  <date>anno Dom. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A lay-man of the Church of England = Thomas Harrison. Cf. Wing.</note>
+                  <note>Reproduction of the original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Obedience --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38511:1" rendition="simple:additions"/>
+            <head>THE Doctrine of Paſsive Obedience AND JURE DIVINO diſproved, And Obedience to the preſent Government, proved from Scrip<g ref="char:EOLhyphen"/>ture, Law, and Reaſon. Written for the ſatisfaction of thoſe who are diſſatisfied at the preſent Government: By a Lay<g ref="char:EOLhyphen"/>man of the Church of <hi>England.</hi>
+            </head>
+            <p>GOD by no Word binds any People to this or that Form of Government, till they by their own Act bind themſelves.</p>
+            <p>None ought to advance the Greatneſs of his Sove<g ref="char:EOLhyphen"/>raign, with the Publick Detriment.</p>
+            <p>The end of Magiſtracy, is the good of the whole body, head and members conjunctly; but if we ſpeak diviſim, then the good of the Society is the ultimat end, and next to that, as con<g ref="char:EOLhyphen"/>ducent to that, the Governours Greatneſs and Prerogative.</p>
+            <p>The Meaſure of our Government, is acknowledged to be by Law, and therefore the King cannot confer Authority to any beyond Law; ſo that thoſe Agents deriving no Authority from him, are meer Inſtruments of his Will, unauthorized perſons, in their aſſaults Robbers.</p>
+            <p>King <hi>Charles</hi> the Firſt's Declaration at <hi>Newmarket</hi> 41. ſays, that the Law is the Meaſure of his Power.</p>
+            <p>There is no Abſolute Authority, where there is no Abſolute Subjection due, and there can be no Abſolute Subjection due, where there is no Abſolute Authority; no man wants Au<g ref="char:EOLhyphen"/>thority to defend his Life againſt him, who has no Au<g ref="char:EOLhyphen"/>thority to take it away, but no man whatſoever has any juſt Authority (that is, any Authority at all) to take it way con<g ref="char:EOLhyphen"/>rary to Law.</p>
+            <p>
+               <pb n="2" facs="tcp:38511:2"/>
+He that reſiſts the Uſurpations of Men, does not reſiſt the Ordinance of God, which alone is forbidden to be reſiſted; but Acts of Arbitrary and Illegal Violence, are the Uſurpations of men, therefore may be reſiſted.</p>
+            <p>We are bound not to part with our Lives, but to defend them, unleſs when the Laws of God, or our Countrey require us to lay them down.</p>
+            <p>Voluntary Slavery is a ſin againſt the Law of Nature, which no man in his right mind can be guilty of.</p>
+            <p>Self-Defence, never did any miſchief in this World, and it is impoſſible, that one man's righting himſelf, can do another man wrong, the miſchief that happens in that caſe, is wholly to be charged upon thoſe that Invade Mens Lives and Liberties, and thereby put them upon a neceſſity of defending them.</p>
+            <p>Every man has the right of Self-preſervation as intire under Civil Government, as he had in a ſtate of Nature: Under what Government ſoever I live, I may ſtill kill another man, when I have no other way to preſerve my Life from unjuſt Violence by private hands; now the hands of Subordinat Magiſtrats im<g ref="char:EOLhyphen"/>ployed in Acts of Illegal Violence, are private hands, and arm<g ref="char:EOLhyphen"/>ed with no manner of Authority at all; of which this is a moſt convincing proof, that they may be hanged by Law, for ſuch Acts which no man can, or ought to ſuffer for what he does by Authority; for illegal Violence is no part of their Office.</p>
+            <p>What can be more contrary to Reaſon and the Government of the World, yea, to the Goodneſs and Wiſdom of Almighty God, than that ſome thouſands or millions of people ſhould be ſo ſubjected to the power of one man, of the ſame Infirmities with themſelves, as in caſe he ſhould command all their Throats to be cut, they are obliged under the pain of no leſs than Dam<g ref="char:EOLhyphen"/>nation (by a thing called Paſſive Obedience) to ſubmit their Necks tamely to the blow!</p>
+            <p>Kings were made to Govern and Protect the People, not to De<g ref="char:EOLhyphen"/>ſtroy them; but I never heard that the People were made for Kings.</p>
+            <p>
+               <pb n="3" facs="tcp:38511:2"/>
+Ah, but ſome do object, the Corporation Oath binds us to be Paſſive, the Deſign whereof I ſhall here enquire into, <hi>viz.</hi> This Oath was made quickly after the Reſtoration of King <hi>Charles</hi> the 2d, from an Unnatural Rebellion, and a Popiſh King was not then thought of, King <hi>Charles</hi> the Second, being as like<g ref="char:EOLhyphen"/>ly, or likelier to live than the late King <hi>James,</hi> and can it be thought this Oath was made with any other deſign than to pre<g ref="char:EOLhyphen"/>vent the like Rebellion for the future, that as ſoon as we were delivered from one unreaſonable Tyranny and Oppreſſion, we ſhould run our ſelves wilfully into another, (which is in effect, if this Oath is to be taken in the ſtricteſt ſenſe) or at leaſt ſtan<g ref="char:EOLhyphen"/>ding to the mercy of the Prince, whether he will be ſo or no; can any man be ſo ridiculous as to think, the Legiſlators deſign<g ref="char:EOLhyphen"/>ed by this Oath to bind themſelves and the Community to be ſo paſſive, that if the King endeavoured to cut our Throats, or overthrow the Laws, Rights, and Priviledges of the Subject, and endeavour to bring in Popery and Slavery, we ſhould ſtand ſtill and let him? Let all the World judge, whether it can with any reaſon be thought.</p>
+            <p>If an abſolute Monarch ſhould degenerate into ſo monſtruous unnatural a Tyranny, as apparently to ſeek the deſtruction of the whole Community, then ſuch Community may negatively reſiſt ſuch Subverſion, and if conſtrained to it, poſitively reſiſt ſuch Endeavours, and defend themſelves by force, againſt any Inſtruments whatſoever for the effecting thereof. Firſt <hi>David</hi> did ſo when purſued by <hi>Saul,</hi> he made Negative Reſiſtance by flight, and doubtleſs it Negative would not have ſerved the turn, he intended, ſecondly, to make poſitive Reſiſtance, elſe why did he ſtrengthen himſelf by Forces, but by that Force of Arms to defend himſelf? If then he might do it for his particular ſafety, much rather may it be done for the publick, eſpecially in a limited Monarchy.</p>
+            <p>Reſiſtance ought not to be made againſt all Illegal Proceedings, but ſuch which are ſubverſive and unſufferable, as when there
+<pb n="4" facs="tcp:38511:3"/>is an Invaſion actually made, or eminently feared by a Foreign Power, or when by an Inteſtine Faction, the Laws and Frame of Government are ſecretly Undermined, or openly Aſſaulted, in both theſe caſes the Beeing of the Government being indan<g ref="char:EOLhyphen"/>gered; the Peoples ſafety and truſt binds them, as well to aſ<g ref="char:EOLhyphen"/>ſiſt the King in ſecuring, as to ſecure it by themſelves, the King refuſing.</p>
+            <p>A Monarch acting according to his Power, not exceeding the Authority which God and the Laws have conferr'd on him, is no way to be oppoſed, either by all or any of his Subjects, but in Conſcience to God's Ordinance obeyed. This is granted on all ſides.</p>
+            <p>The Prince is bound to the Laws, on the Authority where<g ref="char:EOLhyphen"/>of his Authority depends, and to the Laws he ought to ſubmit.</p>
+            <p>The end of a King is the general good of his People, which he not performing, he is but the counterfeit of a King.</p>
+            <p>The Obligation of an Oath, is diſſolved by the ceſſation of the matter of it, or by any remarkable change about the prin<g ref="char:EOLhyphen"/>cipal cauſe of the Oath, the Obligation of a Nations Allegiance to their Prince can be nothing elſe, but his being in Actual Ca<g ref="char:EOLhyphen"/>pacity to Command and Protect them; whenſoever therefore this Actual Capacity is changed, then the Obligation to Obe<g ref="char:EOLhyphen"/>dience muſt be changed alſo.</p>
+            <p>The Reciprocal Obligation there is between the King and the People, binds the one to Protection and juſt Government, and the other to Tribute and Obedience; and thoſe duties of Protection and Obedience appear to be Co-relative; ſo the Law has appointed reciprocal Oaths, to be taken for the better en<g ref="char:EOLhyphen"/>forcing the performance of theſe reſpective Duties, that is the Co<g ref="char:EOLhyphen"/>ronation Oath on the King's part, and the Oath of Allegiance on the Subjects, which is an Agreement or Covenant between King and People: all Agreements are Covenants but much more that, which hath the Obligation of an Oath to bind it.</p>
+            <p>I ask whether it is not as reaſonable, a King Conſpiring the
+<pb n="5" facs="tcp:38511:3"/>ruine and deſtruction of his People, by breaking his Oath or Contract, and deſtroying the very Foundation of Government, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in Lieu thereof bringing in Popery and Slavery (as the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate King <hi>James</hi> did) he ſhould forfeit and loſe the Right of Governing, as that the People conſpiring againſt him ſhould ſuffer Death.</p>
+            <p>I ask whether the Authority which is inherent in our Kings be Boundleſs, and Abſolute, or Limited and Determined? ſo that the Act which they do, or Command to be done without that Compaſs and Bounds, be not only ſinful in themſelves, but Invalid, and not Authoritative to others.</p>
+            <p>The word Loyal comes from the <hi>French</hi> word <hi>La Loy,</hi> which is to be Legal, or True to the Laws of the Land; and on the con<g ref="char:EOLhyphen"/>trary, he that obeys the Commands of his Prince, contrary to the Laws of the Land, (is ſo far from being Loyal,) that he is and Illeg<g ref="char:EOLhyphen"/>all Perſon, and a Betrayer of the known Laws of his Countrey.</p>
+            <p>
+               <hi>Paſſive Obedience,</hi> is Popery eſtabliſhed by Law, when ever the Prince ſhall pleaſe, and by Conſequence Slavery; whereas the Subjects of <hi>England</hi> never were Slaves in any Particular, nor ever would be in the darkeſt Times of Popery.</p>
+            <p>I ask where was the Doctrine of <hi>Paſſive Obedience,</hi> when Queen <hi>Elizabeth</hi> aſſiſted the <hi>Hollanders,</hi> againſt their Lawful Soveraign the King of <hi>Spain,</hi> and when ſhe aſſiſted the Pro<g ref="char:EOLhyphen"/>teſtants of <hi>France</hi> at a vaſt Charge, in the Reigns of <hi>Charles</hi> the Ninth, and <hi>Henry</hi> the Third, and in King <hi>Charles</hi> the Firſt's Reign, the Expedition of <hi>Rochel</hi> was carried on by King and Parliament, and Cordially agreed to by the Fathers of our Church, and yet the Proteſtants of <hi>France</hi> could never pretend to any ſuch Priviledges as <hi>England</hi> can juſtly Claim.</p>
+            <p>The late King <hi>James's</hi> Life has been but one continued, and formed Conſpiracy againſt our Religion, Laws, Rights and Priviledges, and what can be expected from ſuch a Prince (who is <hi>Romaniſt</hi>) and has Violated his Oath before God and Man, and endeavours to Re-eſtabliſh himſelf with the
+<pb n="6" facs="tcp:38511:4"/>Sword, by the Aſſiſtance of one of the greateſt Tyrants that ever the World produced.</p>
+            <p>It cannot be proved, that Monarchy was Originally inſtitut<g ref="char:EOLhyphen"/>ed by God Almighty, or that we are Commanded to obey Kings, Excluſively to all other Government.</p>
+            <p>I ask where was there ſuch a thing as a King for the firſt Six<g ref="char:EOLhyphen"/>teen hundred years, and up-wards, which is to the Deluge, or for ſeveral hundred years after it: the firſt King (at leaſt the firſt mentioned in Holy Writ) is <hi>Nimrod,</hi> of the Poſterity of <hi>Cham,</hi> who began his Kingdom in the ſecond Century after the Flood, whoſe Kingdom was founded by Force and Violence; ſo that the very foundation of Monarchy ſeems to be laid from this Perſon, which makes but little for <hi>Jure Divino.</hi> If Kings are by Divine appointment, it is not Rational to believe, that God would have Commanded all the World to have been Go<g ref="char:EOLhyphen"/>verned by Kings, or at leaſt the Chriſtian World, and have given them a particular Law to Govern by?</p>
+            <p>If Monarchy be <hi>Jure Divino,</hi> then all other Governments is Sinful.</p>
+            <p>Allegiance is due to him from whom we receive Protection; this is allowed by all the World, elſe why do men, after hav<g ref="char:EOLhyphen"/>ing Sworn Allegiance to their Native Prince, and going into another Countrey, ſwear Allegiance to the Prince thereof.</p>
+            <p>Allegiance is due to a King in Poſſeſſion, (who is called a King <hi>De facto,</hi>) and Treaſon may be committed againſt him, as well as againſt a King by regular deſcent; and yet by the Law, Treaſon cannot be committed againſt the Rightful Heir, (who is called a King <hi>de Jure</hi>) who is out of Poſſeſſion of the Crown, and all Judicial and Political Acts done by a King <hi>de Facto</hi> are as Valid and Obligatory, as if they had been done by a Rightful King, in actual Poſſeſſion of the Throne: where<g ref="char:EOLhyphen"/>as, on the contrary, all ſuch Acts done by a King <hi>de Jure,</hi> who is not in Poſſeſſion of the Crown, are totally void: in like manner the Law prefers the Peace and Order of the Polity, be<g ref="char:EOLhyphen"/>fore
+<pb n="7" facs="tcp:38511:4"/>the particular Rights of the King himſelf; and the great <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d of the Regal Authority, and of the Law it ſelf, is the Quiet <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Proſperity of the Common-wealth.</p>
+            <p>It's an acknowledged <hi>Aphoriſm,</hi> that the ſafety of the People <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Supream Law, and therefore to be preferred before Titles <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Succeſſion.</p>
+            <p>The Succeſſion of the Crown of <hi>England</hi> is not by Divine Right, but by Political Inſtituion, and all the Prerogatives <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Authorities of the Crown belong to the Succeſſor <hi>de Facto,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd not to the Heir <hi>de Jure,</hi> or <hi>ex ordine,</hi> being out of Poſſeſſi<g ref="char:EOLhyphen"/>on, and that Allegiance is due in ſuch caſe to the former, and not to the latter.</p>
+            <p>All the Proofs that are brought out of the Goſpel for Obe<g ref="char:EOLhyphen"/>dience to Princes, to confirm this Maxim of our Law; for nei<g ref="char:EOLhyphen"/>ther our Saviour of his Apoſtles bid Chriſtians enquire into the Right and the Title of the <hi>Roman</hi> Emperours, but obey them, under what Government it was their Lot to fall, for few of them could pretend a Legal Title to the Crown.</p>
+            <p>I Challenge all the <hi>Paſſive Obedience</hi> and <hi>Jure Divino</hi> Men in <hi>England,</hi> nay in the whole World, to anſwer theſe Aſſertions and Propoſitions, and prove the Doctrine of <hi>Paſſive Obedience</hi> and <hi>Jure Divino</hi> by Scripture, Law, or Reaſon; when theſe are proved, I dare be bold to affirm the Nation will ſend for the late King <hi>James</hi> and ſubmit to his Yoke, and lay down their Necks upon the Block, and ſtand to the mercy of the <hi>French</hi> and <hi>Iriſh</hi> Dragoons to cut their Throats.</p>
+            <p>I Conjure all the diſſatisfied Perſons in their Majeſties Do<g ref="char:EOLhyphen"/>minions to be ſatisfied with theſe Aſſertions and Propoſitions, or to anſwer them, and ſhew ſound reaſon for their Diſſent from the preſent Government, for a wilful Schiſm in the State is a Sin, and he that Endavours to ſow Diſſention amongſt the
+<pb n="8" facs="tcp:38511:5" rendition="simple:additions"/>People, and to draw their Majeſties Subjects from the ir<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Allegiance, is guilty of a double Sin.</p>
+            <p>And becauſe it may be Objected, in anſwering theſe Prop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſitions they muſt be forced to Write againſt the Governmen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (I do promiſe) if they ſend a ſhort, but direct Anſwer, to M<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Randal Taylor's,</hi> to Print it, with a Reply annext to it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Lincenſed,</p>
+            <closer>
+               <dateline>
+                  <date>May 7.1689.</date>
+               </dateline> 
+               <signed>J. Fraſer.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall</hi> an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reprinted at <hi>Edinburgh, Anno Dom.</hi> 168<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
